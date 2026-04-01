@@ -1,0 +1,40 @@
+{
+  "name": "Calculateur d'Impact Carbone Événementiel",
+  "description": "Estimez l",
+  "theme": "calculator",
+  "design_theme": "solarpunk-signal",
+  "structure_preset": "guided-steps-plus",
+  "render_direction": "campaign-slab",
+  "page_blueprint": "magazine-fold",
+  "language": "fr",
+  "country": "FR",
+  "url": null,
+  "expected_url": "https://calculateur-d-impact-carbone-evenementiel-3.onrender.com",
+  "created": "2026-04-01T21:58:02.638588+00:00",
+  "owner_user_id": "user-1774822953462",
+  "owner_username": "admin",
+  "owner_display_name": "Administrator",
+  "status": "generated",
+  "run_id": "run-1775080471956",
+  "publish_target": "render",
+  "mode": "production",
+  "github": {
+    "status": "pending"
+  },
+  "deployment": {
+    "status": "pending"
+  },
+  "qa": {
+    "status": "pending"
+  },
+  "features": [
+    "Hero pattern: stacked",
+    "Proof module: checklist",
+    "Design theme: Solarpunk Signal",
+    "Render direction: Campaign Slab",
+    "Page blueprint: Magazine Fold",
+    "Runtime mode: generic_calculator",
+    "Generation mode: direct_html",
+    "Artifact rendered, awaiting QA and deployment"
+  ]
+}
